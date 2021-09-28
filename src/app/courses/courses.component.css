@@ -1,0 +1,69 @@
+.main-container {
+  width: 100%;
+  height: 100%;
+  background-image: url("../img/golf-image.webp");
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+}
+.row {
+  margin: 5px 0px 5px 0px;
+  border: solid 1px rgb(193, 230, 31);
+}
+label {
+  color: rgb(193, 230, 31)
+}
+#cardStuff1, #cardStuff2 {
+  background-color: rgb(165, 184, 129);
+}
+.err {
+  color: red;
+}
+.text-center {
+  border: solid 1px black;
+  font-size: 1.5vw;
+  margin: auto
+}
+#firstHeader {
+  color: rgb(193, 230, 31);
+  text-align:center;
+}
+
+#mobile {
+  color: rgb(150, 150, 150);
+  text-align: center;
+  font-size: 10px;
+  text-decoration: underline;
+}
+
+.leftColumn {
+  font-size: 1.3vw;
+  margin: 5px;
+}
+
+.col-1 {
+  background-color: rgb(178, 238, 178);
+}
+body {
+  /* background-image: rgb(0, 70, 17); */
+}
+
+/* inputs {
+  overflow: visible;
+} */
+
+/* input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0; 
+} */
+
+#courseName {
+  text-align: center;
+  color: rgb(193, 230, 31);
+}
+.totals {
+  color: rgb(148, 201, 148);
+}

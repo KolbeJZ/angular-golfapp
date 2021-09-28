@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "fir-golfapp": {
+      "hosting": {
+        "Golf-Score-App-Angular": [
+          "fir-golfapp"
+        ]
+      }
+    }
+  }
+}
